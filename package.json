@@ -15,7 +15,8 @@
   },
   "homepage": "https://github.com/PC-Fullstack-Spring-2020/boilerpolate#readme",
   "dependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "react-auth": "github:PC-Fullstack-Spring-2020/react-auth#master"
   },
   "boilerplate": {
     "name": "boilerplate",

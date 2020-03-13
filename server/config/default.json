@@ -1,0 +1,9 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "user",
+    "password": "root",
+    "database": "chat"
+  },
+  "secret": "Xr@?!uP_aqeqYFRhMgtC8S$3dn^gyPjhjgna2FmMdAAr3Uegs55fzNawhCrWsLVu"
+}
